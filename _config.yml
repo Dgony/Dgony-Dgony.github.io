@@ -13,11 +13,10 @@ site-twitter: #if your site has a twitter account, enter it here
 author: GunHui Lee # add your name
 author-img: gamepad-3630565_1920.png # add your photo
 about-author: I am a web developer focusing on back-end development. Always hungry to keep learning. # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
+# social-twitter: # add your Twitter handle
+# social-facebook: # add your Facebook handle
 social-github: dgony # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-naver: 
+# social-linkedin: # add your Linkedin handle
 social-email: # add your Email address
 
 # Disqus
