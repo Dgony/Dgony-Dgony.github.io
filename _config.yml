@@ -9,8 +9,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: dgony (GunHee Lee) # add your name
 author-img: gamepad-3630565_1920.png # add your photo
-about-author: 백엔드 개발자를 목표로 하는 사람입니다.
-블로그엔 제 공부 과정과 공부에 대한 복습, 고찰 등을 게시하고 있습니다. # add description
+about-author: 백엔드 개발자를 향한 노력 기록하기 # add description
 # social-twitter: # add your Twitter handle
 # social-facebook: # add your Facebook handle
 social-github: dgony # add your Github handle
