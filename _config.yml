@@ -20,7 +20,7 @@ social-github: dgony # add your Github handle
 social-email: # add your Email address
 
 # Disqus
-discus-identifier: https-dgony-github-io # add your discus identifier
+discus-identifier: https-dgony-github-io # add your discus identifier, disqus 사이트에 연결된 내 사이트의 별명 입력
 
 # Tracker
 analytics: # Google Analytics
