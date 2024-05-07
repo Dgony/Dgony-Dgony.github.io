@@ -7,7 +7,7 @@ site-twitter: #if your site has a twitter account, enter it here
 
 
 # Author Settings
-author: dgony (GunHee Lee) # add your name
+author: Dgony # add your name
 author-img: gamepad-3630565_1920.png # add your photo
 about-author: My name is GunHee LEE <br>and I am preparing to become a web backend developer. # add description
 # social-twitter: # add your Twitter handle
@@ -15,6 +15,7 @@ about-author: My name is GunHee LEE <br>and I am preparing to become a web backe
 social-github: dgony # add your Github handle
 # social-linkedin: # add your Linkedin handle
 social-email: 98igunhi@naver.com
+social-rss: https://dgony.github.io//feed.xml
 
 # Disqus
 discus-identifier: https-dgony-github-io # add your discus identifier, disqus 사이트에 연결된 내 사이트의 별명 입력
