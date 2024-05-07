@@ -13,9 +13,9 @@ layout: default
     </div>
   </header> <!-- End Header -->
   <nav>
-    <ul class="categories">
-      {% for category in site.categories %}
-        <li><a href="#">{{ category[0] }}</a></li>
+    <ul class="blog-tags">
+      {% for category in site.tags %}
+        <li><a href="#">{{ tag }}</a></li>
       {% endfor %}
     </ul>
   </nav> <!-- End Navigation -->
