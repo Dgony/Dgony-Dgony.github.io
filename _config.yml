@@ -1,4 +1,4 @@
-title: I'm backend developer dgony
+title: backend developer dgony
 description: road for irreplaceable backend developer
 permalink: ':title/'
 baseurl: "https://dgony.github.io/" # the subpath of your site, e.g. /blog
@@ -9,7 +9,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: dgony (GunHee Lee) # add your name
 author-img: gamepad-3630565_1920.png # add your photo
-about-author: 백엔드 개발자를 향한 <br/>노력 기록하기 # add description
+about-author: My name is GunHee LEE <br>and I am preparing to become a web backend developer. # add description
 # social-twitter: # add your Twitter handle
 # social-facebook: # add your Facebook handle
 social-github: dgony # add your Github handle
