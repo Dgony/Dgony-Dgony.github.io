@@ -15,9 +15,7 @@ layout: default
   <nav>
     <ul class="blog-tags">
       {% for category in site.tags %}
-        {% for tag in category[1] %}
-          <li><a href="#">{{ tag }}</a></li>
-        {% endfor %}
+        <li><a href="#">{% for tag in category[1] %}</a></li>
       {% endfor %}
     </ul>
   </nav>
