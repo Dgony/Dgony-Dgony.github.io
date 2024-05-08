@@ -12,13 +12,15 @@ layout: default
       <p>{{site.about-author}}</p>
     </div>
   </header> <!-- End Header -->
-  <!-- <nav>
+  <nav>
     <ul class="blog-tags">
       {% for category in site.tags %}
-        <li><a href="#">{{ site.tags[0] }}</a></li>
+        {% for tag in category[1] %}
+          <li><a href="#">{{ tag }}</a></li>
+        {% endfor %}
       {% endfor %}
     </ul>
-  </nav> --> 
+  </nav>
   <footer>
     <section class="contact">
       <h3 class="contact-title">Contact me</h3>
