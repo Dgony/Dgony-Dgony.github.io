@@ -3,7 +3,7 @@ layout: post
 title: 블로그를 만들고 처음 만드는 기록
 date: 2024-05-07 09:44:00 +0300
 description: 공부를 하면서 기록하는 하루의 일기 # Add post description (optional)
-img: /daily record/2024-05-07/gamepad-3630565_1920.png # Add image post (optional)
+img: /daily%20record/2024-05-07/gamepad-3630565_1920.png # Add image post (optional)
 fig-caption: 내가 가장 좋아하는 취미의 상징 # (이미지 아래에 표시될 설명)
 tags: [record] # add tag
 ---
