@@ -2,9 +2,9 @@
 layout: post
 title: 블로그를 만들게 된 이유
 date: 2024-05-10 21:52:00 +0300
-description: 공부를 하면서 기록하는 하루의 일기 # Add post description (optional)
-img: /daily%20record/2024-05-07/gamepad-3630565_1920.png # Add image post (optional)
-fig-caption: 내가 가장 좋아하는 취미의 상징 # (이미지 아래에 표시될 설명)
+description: 블로그 개인설정의 과정과 오류 # Add post description (optional)
+img: \daily record\2024-05-10\2024-05-10 214438.png" # Add image post (optional)
+fig-caption:  # (이미지 아래에 표시될 설명)
 tags: [record] # add tag
 ---
 ###  블로그를 만들게 된 이유
