@@ -15,9 +15,8 @@ layout: default
 
   <nav>
     <ul class="blog-tags">
-      {% for category in site.tags %}
-          <li><a href="#">{{ post.title }}</a></li>
-      {% endfor %}
+      <li><a href="{{site.baseurl}}">{{ 최신순으로 보기 }}</a></li>
+      <li><a href="{{site.baseurl}}/tags">{{ 카테고리 별로 보기 }}</a></li>
     </ul>
   </nav>
 
