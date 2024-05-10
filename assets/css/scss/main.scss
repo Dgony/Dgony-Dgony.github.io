@@ -46,6 +46,34 @@ blockquote {
   color: #ada8a8;
 }
 
+blog-tags {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+blog-tags li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+blog-tags li:last-child {
+  margin-right: 0;
+}
+
+blog-tags li a {
+  text-decoration: none;
+  color: #333;
+  padding: 5px 10px;
+  border-radius: 5px;
+  background-color: #f0f0f0;
+  transition: background-color 0.3s ease;
+}
+
+blog-tags li a:hover {
+  background-color: #e0e0e0;
+}
+
 pre {
   padding: 1rem 2rem;
   overflow: auto;
