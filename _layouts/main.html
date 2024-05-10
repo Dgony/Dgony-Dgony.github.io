@@ -14,12 +14,9 @@ layout: default
   </header> <!-- End Header -->
 
   <nav>
-    <ul class="blog-tags">
+    <ul class="view">
       <li><a href="{{site.baseurl}}">최신순으로 보기</a></li>
       <li><a href="{{site.baseurl}}/tags">카테고리 별로 보기</a></li>
-      {% for tag in page.tags %}
-      <li><a href="{{ site.baseurl }}/tags/{{ tag }}">{{ tag }}</a></li>
-    {% endfor %}
     </ul>
   </nav>
 
