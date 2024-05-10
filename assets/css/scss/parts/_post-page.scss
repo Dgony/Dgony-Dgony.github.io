@@ -19,10 +19,10 @@
 }
 
 .page-cover-image {
-  position: static;
+  position: relative;
   padding: 0;
   margin: 0;
-  max-height: 500px;
+  max-height: 1000px;
   background-color: $lightgray;
   overflow: hidden;
   figure {
