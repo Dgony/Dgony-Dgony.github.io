@@ -2,4 +2,4 @@ User-agent: *
 Allow:/
 Allow: /your-javascript-url
 Allow: /your-css-url
-Sitemap: https://dgony.github.io//feed.xml
+Sitemap: https://dgony.github.io//sitemap.xml

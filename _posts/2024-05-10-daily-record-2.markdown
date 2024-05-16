@@ -3,7 +3,7 @@ layout: post
 title: 블로그를 만들게 된 이유
 date: 2024-05-10 21:52:00 +0300
 description: 블로그 개인설정의 과정과 오류 # Add post description (optional)
-img: \daily\record\2024-05-10\2024-05-10-214438.png # Add image post (optional)
+img: /daily%20record/2024-05-10/2024-05-10-214438.png # Add image post (optional)
 fig-caption:  # (이미지 아래에 표시될 설명)
 tags: [record] # add tag
 ---
